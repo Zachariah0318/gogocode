@@ -67,6 +67,8 @@ const b = 1;
 
 ## 支持
 
+获取后一个节点
+
 -   [issues](https://github.com/thx/gogocode/issues)
 -   钉钉群：34266233
 -   QQ群：735216094
