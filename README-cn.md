@@ -4,7 +4,7 @@
 
 ## GoGoCode 是什么？
 
-可能是全网最简单易上手、可读性最强的工具
+东半球，可能是全网最简单易上手、可读性最强的工具
 
 [English version of README](README.md)
 
