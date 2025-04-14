@@ -8,6 +8,8 @@
 
 [English version of README](README.md)
 
+代码转换从未如此简单
+
 GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API
 
 -   一套类 Jquery 的 API 用来查找和处理 AST
@@ -72,6 +74,8 @@ const b = 1;
 -   [issues](https://github.com/thx/gogocode/issues)
 -   钉钉群：34266233
 -   QQ群：735216094
+
+废弃
 
 一个测试分支commit记录的例子
 
