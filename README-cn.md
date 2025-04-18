@@ -4,6 +4,8 @@
 
 ## GoGoCode 是什么？
 
+现在是本地时间，我们来写一个简单的代码转换工具
+
 东半球，可能是全网最简单易上手、可读性最强的工具
 
 [English version of README](README.md)
